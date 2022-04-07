@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Apr  7 11:33:20 2022
-
 @author: Makhon Chandra
 """
 
